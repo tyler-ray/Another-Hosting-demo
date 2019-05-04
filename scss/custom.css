@@ -5,13 +5,11 @@ body {
   width: 100%;
   font-family: "Poppins", sans-serif;
   color: #222;
-  border: 1px solid red;
   overflow: hidden auto;
 }
 
 .navbar {
   padding: 0.8rem;
-  border: 1px solid red;
 }
 
 .navbar-nav li {
